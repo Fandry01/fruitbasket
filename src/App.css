@@ -1,0 +1,17 @@
+.artikelen{
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    width: 300px;
+    border-style: solid;
+    padding-top: 30px;
+}
+.artikelen h2{
+    padding-right: 60px;
+}
+.artikelen button{
+    height: 40px;
+    width: 30px;
+}
+
+
